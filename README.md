@@ -48,7 +48,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 - **Docs:** <url>
 - **Repo(s):** <url(s)>
 - **Category:** (e.g., Privacy L1/L2, Private DeFi, Wallet/UX, Tooling/SDK, Infra)
-- **Core Technology (Trust Model):** ZK | FHE | MPC | TEE | Hybrid
+- **Core Technology:** ZK | FHE | MPC | TEE | Hybrid
 - **Chains / Targets:** (EVM, Cosmos, Solana, Multi, etc.)
 ```
 
@@ -64,7 +64,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.tornado.cash](https://docs.tornado.cash) (archival/mirrors may exist)
 * **Repo(s):** [https://github.com/tornadocash](https://github.com/tornadocash)
 * **Category:** Mixer
-* **Core Technology (Trust Model):** ZK
+* **Core Technology:** ZK
 * **Chains / Targets:** EVM
 
 ---
@@ -77,7 +77,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://z.cash/learn/technology/](https://z.cash/learn/technology/)
 * **Repo(s):** [https://github.com/zcash](https://github.com/zcash)
 * **Category:** Privacy L1
-* **Core Technology (Trust Model):** ZK
+* **Core Technology:** ZK
 * **Chains / Targets:** Native L1
 
 ---
@@ -90,7 +90,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.aztec.network](https://docs.aztec.network)
 * **Repo(s):** [https://github.com/AztecProtocol](https://github.com/AztecProtocol)
 * **Category:** Privacy L2, Tooling/SDK
-* **Core Technology (Trust Model):** ZK
+* **Core Technology:** ZK
 * **Chains / Targets:** EVM-aligned environment
 
 ---
@@ -103,7 +103,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.railgun.org](https://docs.railgun.org)
 * **Repo(s):** [https://github.com/Railgun-Community](https://github.com/Railgun-Community)
 * **Category:** Private DeFi, Shielded Pools / Note Systems
-* **Core Technology (Trust Model):** ZK
+* **Core Technology:** ZK
 * **Chains / Targets:** EVM
 
 ---
@@ -116,7 +116,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.zama.ai](https://docs.zama.ai)
 * **Repo(s):** [https://github.com/zama-ai](https://github.com/zama-ai)
 * **Category:** Tooling/SDK, fhEVM / Coprocessor, Research
-* **Core Technology (Trust Model):** FHE
+* **Core Technology:** FHE
 * **Chains / Targets:** EVM integrations; general FHE libraries
 
 ---
@@ -129,7 +129,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.inco.org](https://docs.inco.org)
 * **Repo(s):** [https://github.com/Inco-fhevm](https://github.com/Inco-fhevm)
 * **Category:** Infra, Tooling/SDK
-* **Core Technology (Trust Model):** TEE (+ FHE)
+* **Core Technology:** TEE (+ FHE)
 * **Chains / Targets:** EVM (multi-chain posture)
 
 ---
@@ -142,7 +142,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Docs:** [https://docs.privacypools.com](https://docs.privacypools.com)
 * **Repo(s):** [https://github.com/0xbow-io](https://github.com/0xbow-io)
 * **Category:** Shielded Pools
-* **Core Technology (Trust Model):** ZK
+* **Core Technology:** ZK
 * **Chains / Targets:** Ethereum Mainnet
 
 ---
