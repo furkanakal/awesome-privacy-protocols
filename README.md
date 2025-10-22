@@ -18,6 +18,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
   * [Zama](#zama)
   * [Inco](#inco)
   * [0xBow](#0xbow)
+  * [Aleo](#aleo)
   * [Nillion](#nillion)
   * [Oasis Network](#oasis-network)
   * [Arcium](#arcium)
