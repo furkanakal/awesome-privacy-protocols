@@ -135,14 +135,27 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 
 ### 0xBow (Privacy Pools)
 
-**Summary:** A zero-knowledge “privacy pool” system for Ethereum that enables private withdrawals while proving membership in a compliant association set—aiming to balance user privacy with illicit-flow screening. ([0xbow.io][1])
+**Summary:** A zero-knowledge “privacy pool” system for Ethereum that enables private withdrawals while proving membership in a compliant association set—aiming to balance user privacy with illicit-flow screening.
 
-* **Website:** [https://0xbow.io](https://0xbow.io) • [https://privacypools.com](https://privacypools.com) ([0xbow.io][1])
-* **Docs:** [https://docs.privacypools.com](https://docs.privacypools.com) ([docs.privacypools.com][2])
+* **Website:** [https://0xbow.io](https://0xbow.io) • [https://privacypools.com](https://privacypools.com)
+* **Docs:** [https://docs.privacypools.com](https://docs.privacypools.com)
 * **Repo(s):** [https://github.com/0xbow-io](https://github.com/0xbow-io)
 * **Category:** Shielded Pools
 * **Core Technology (Trust Model):** ZK
 * **Chains / Targets:** Ethereum Mainnet
+
+---
+
+### Aleo
+
+**Summary:** A privacy-first Layer-1 blockchain for building private applications using zero-knowledge proofs, centered on the Leo language.
+
+* **Website:** [https://aleo.org](https://aleo.org)
+* **Docs:** [https://developer.aleo.org](https://developer.aleo.org)
+* **Repo(s):** [https://github.com/ProvableHQ](https://github.com/ProvableHQ)
+* **Category:** Privacy L1, Tooling/SDK
+* **Core Technology:** ZK
+* **Chains / Targets:** Native L1 (Aleo)
 
 ---
 
@@ -152,7 +165,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 
 * **Website:** [https://www.nillion.com](https://www.nillion.com)
 * **Docs:** [https://docs.nillion.com](https://docs.nillion.com)
-* **Repo(s):** [https://github.com/NillionNetwork](https://github.com/NillionNetwork) (if/when public components available)
+* **Repo(s):** [https://github.com/NillionNetwork](https://github.com/NillionNetwork)
 * **Category:** MPC Network / Compute, Tooling/SDK, Private AI
 * **Core Technology:** MPC
 * **Chains / Targets:** Nillion Network
