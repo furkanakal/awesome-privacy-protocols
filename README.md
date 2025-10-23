@@ -23,6 +23,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
   * [Oasis Network](#oasis-network)
   * [Arcium](#arcium)
   * [Fhenix](#fhenix)
+  * [Sunscreen](#Sunscreen)
 * [Contributing](#contributing)
 
 ---
