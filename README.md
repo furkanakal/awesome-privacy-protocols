@@ -212,6 +212,19 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 
 ---
 
+### Sunscreen
+
+**Summary:** Applied-cryptography lab turning frontier FHE research into production-grade open-source tooling and products for both web2 and web3 apps.
+
+- **Website:** [https://sunscreen.tech](https://sunscreen.tech)
+- **Docs:** [https://docs.sunscreen.tech](https://docs.sunscreen.tech)
+- **Repo(s):** [https://github.com/Sunscreen-tech](https://github.com/Sunscreen-tech)
+- **Category:** FHE, SPF, Research, Tooling/SDK
+- **Core Technology:** FHE
+- **Chains / Targets:** Chain-agnostic (EVM & Non-EVM)
+
+---
+
 ## Contributing
 
 **PRs welcome!** Please:
