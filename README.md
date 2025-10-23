@@ -193,9 +193,9 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 * **Website:** [https://www.arcium.com](https://www.arcium.com)
 * **Docs:** [https://docs.arcium.com/](https://docs.arcium.com/)
 * **Repo(s):** [https://github.com/arcium-hq](https://github.com/arcium-hq)
-* **Category:** MPC Network / Compute
+* **Category:** MPC Network / Compute, Infra, Tooling/SDK
 * **Core Technology:** MPC
-* **Chains / Targets:** Chain-agnostic integrations
+* **Chains / Targets:** Chain-agnostic integrations (primarily targetting Solana)
 
 ---
 
