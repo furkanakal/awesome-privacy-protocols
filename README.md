@@ -24,6 +24,7 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
   * [Arcium](#arcium)
   * [Fhenix](#fhenix)
   * [Sunscreen](#Sunscreen)
+  * [Soda Labs](#soda-labs)
 * [Contributing](#contributing)
 
 ---
@@ -222,6 +223,19 @@ A curated list of **Web3 privacy protocols**: networks, rollups, libraries, wall
 - **Repo(s):** [https://github.com/Sunscreen-tech](https://github.com/Sunscreen-tech)
 - **Category:** FHE, SPF, Research, Tooling/SDK
 - **Core Technology:** FHE
+- **Chains / Targets:** Chain-agnostic (EVM & Non-EVM)
+
+---
+
+### Soda Labs
+
+**Summary:** Pioneering Garbled Circuit-based MPC for decentralized private computation. Inventors of the gcEVM (GC-for-EVM) stack to enable encrypted smart contract logic.
+
+- **Website:** [https://sodalabs.xyz](https://sodalabs.xyz)
+- **Docs:** [https://soda-labs.gitbook.io/soda-labs/](https://soda-labs.gitbook.io/soda-labs/)
+- **Repo(s):** [https://github.com/soda-mpc](https://github.com/soda-mpc)
+- **Category:** Garbled Circuit Cryptography, MPC, Research, gcEVM/Coprocessor
+- **Core Technology:** MPC, GC
 - **Chains / Targets:** Chain-agnostic (EVM & Non-EVM)
 
 ---
